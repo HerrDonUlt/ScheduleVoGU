@@ -1,4 +1,4 @@
 # SchelduleVoGU
 Science project for university
 
-ITS department
+IT&S department
